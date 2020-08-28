@@ -35,7 +35,6 @@ interests:
   - Artificial Intelligence
 
 education:
-courses:
   - course: B.Tech in IT
     institution: Heritage Institute of Technology
     year: 2021
