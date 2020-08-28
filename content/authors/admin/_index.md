@@ -65,7 +65,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/anshu-jalan-3479a0135/
   - icon: youtube
-    icon-pack: fab
+    icon-pack: fas
     link: https://www.youtube.com/channel/UCsAK5wCOjISPFFQlgyVJujg/featured
 
 # Link to a PDF of your resume/CV from the About widget.
