@@ -36,12 +36,12 @@ interests:
 
 education:
   courses:
-  - course: B.Tech in IT
-    institution: Heritage Institute of Technology
-    year: 2021
-  - course: PCM + Computer Science
-    institution: St' James School
-    year: 2017
+    - course: B.Tech in IT
+      institution: Heritage Institute of Technology
+      year: 2021
+    - course: PCM + Computer Science
+      institution: St' James School
+      year: 2017
 
 # Social/Academic Networking
 
@@ -61,6 +61,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/AnshuJalan
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anshu-jalan-3479a0135/
 
 # Link to a PDF of your resume/CV from the About widget.
 
