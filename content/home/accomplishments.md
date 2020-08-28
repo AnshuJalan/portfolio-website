@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Torus"
+  organization_url = "https://tor.us/"
+  title = "Torus API Prize for EthIndia Hackathon"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2020-03-10"
   date_end = ""
-  description = ""
+  description = "Prize for the best decentralized app, a digital document signer utilizing Torus Labs' key management system"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Tellor"
+  organization_url = "https://www.tellor.io"
+  title = "Tellor Prize for EthIndia Chainrunner"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2020-07-22"
+  date_end = ""
+  description = "Received for building the best use case of oracles, an OTC options trading platform on Ethereum."
 
 +++
